@@ -1,5 +1,5 @@
 # CBZ-Minimizer
-A simple python script to shrink iamges inside a cbz file
+A simple python script to shrink images inside a cbz file
 
 ## Dependencies
 zip, unzip, imagemagick
